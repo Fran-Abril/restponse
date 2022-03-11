@@ -7,7 +7,7 @@
 
   <groupId>io.github.fran-abril</groupId>
   <artifactId>restponse</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <name>Manage Responses in the Rest Layout</name>
   <description>Alternative to javax.ws.rs.core.Response to handle all responses easily</description>
@@ -33,7 +33,7 @@
     <connection>scm:git:git://github.com/Fran-Abril/restponse.git</connection>
     <developerConnection>scm:git:https://github.com/Fran-Abril/restponse.git</developerConnection>
     <url>https://github.com/Fran-Abril/restponse/tree/main</url>
-    <tag>restponse-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
