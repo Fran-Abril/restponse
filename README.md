@@ -1,4 +1,4 @@
-# Base Exception
+# Restponse Base Exception
 
 [![TravisCI](https://app.travis-ci.com/Fran-Abril/restponse.svg?branch=main)](https://app.travis-ci.com/github/Fran-Abril/restponse)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
